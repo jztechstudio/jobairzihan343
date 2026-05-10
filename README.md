@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Jobair;AI+Enthusiast+🤖;Tech+Content+Creator+🚀;Learning+and+Building+with+AI+❤️" alt="Typing SVG" />
+</p>
+
 # Hi 👋 I'm Jobair
 
 💻 Web Developer from Bangladesh  
