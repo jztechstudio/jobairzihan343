@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Jobair;🇧🇩+Proud+Bangladeshi;AI+Enthusiast+🤖;Building+Free+AI+Projects+🚀;Learning+and+Helping+People+❤️" alt="Typing SVG" />
-</p>
-
-<h3 align="center">🇧🇩 Proudly From Bangladesh</h3>
-
-<p align="center">
-  "Technology becomes powerful when it helps people." ✨
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi+👋+I'm+Jobair;🇧🇩+Proud+Bangladeshi+Developer;AI+Enthusiast+🤖;Building+Free+AI+Projects+🚀;Technology+becomes+powerful+when+it+helps+people+✨" alt="Typing SVG" />
 </p>
 
 # Hi 👋 I'm Jobair
