@@ -136,7 +136,7 @@
 # 🔝 Top Contributed Repositories
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jztechstudio&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jztechstudio&repo=YOUR_REPO_NAME&theme=tokyonight"/>
 </p>
 
 ---
