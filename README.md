@@ -97,15 +97,16 @@
 ---
 # 📊 GitHub Analytics
 
-<h2 align="center">📊 GitHub Analytics</h2>
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jztechstudio&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jztechstudio&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jztechstudio&theme=tokyonight&hide_border=true&border_radius=15"/>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jztechstudio&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jztechstudio&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
 </p>
+
 ---
 # 🐍 Snake Eating Contributions
 
