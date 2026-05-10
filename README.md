@@ -28,7 +28,6 @@
 <br><br>
 
 ---
-
 # 🌐 Connect With Me
 
 <p align="center">
@@ -52,8 +51,6 @@
 </p>
 
 ---
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=🎬+Subscribe+to+JZ+Tech+Studio;🔥+Learn+AI+%7C+Coding+%7C+Tech+Projects;🚀+New+Videos+Every+Week;💡+Grow+Your+Tech+Skills+With+Me" />
 </p>
@@ -65,7 +62,6 @@
 </p>
 
 ---
-
 # ❤️ Learning • Building • Helping People With AI
 
 <p align="center">
@@ -73,7 +69,6 @@
 </p>
 
 ---
-
 # ⚡ Tech Stack
 
 <p align="center">
@@ -99,7 +94,6 @@
 </p>
 
 ---
-
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -127,7 +121,6 @@
 </p>
 
 ---
-
 # 📈 Contribution Graph
 
 <p align="center">
@@ -135,7 +128,6 @@
 </p>
 
 ---
-
 # ✍️ Random Dev Quote
 
 <p align="center">
@@ -143,7 +135,6 @@
 </p>
 
 ---
-
 # 👀 Profile Visitors
 
 <p align="center">
@@ -151,7 +142,6 @@
 </p>
 
 ---
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F7FF&height=120&section=footer"/>
 </p>
